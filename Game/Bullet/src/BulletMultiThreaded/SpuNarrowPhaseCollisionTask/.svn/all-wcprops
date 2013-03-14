@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask
+END
+SpuGatheringCollisionTask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuGatheringCollisionTask.cpp
+END
+SpuMinkowskiPenetrationDepthSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuMinkowskiPenetrationDepthSolver.h
+END
+SpuGatheringCollisionTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuGatheringCollisionTask.h
+END
+SpuPreferredPenetrationDirections.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuPreferredPenetrationDirections.h
+END
+boxBoxDistance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/boxBoxDistance.cpp
+END
+boxBoxDistance.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/boxBoxDistance.h
+END
+SpuContactResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuContactResult.cpp
+END
+SpuLocalSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuLocalSupport.h
+END
+SpuContactResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuContactResult.h
+END
+SpuCollisionShapes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuCollisionShapes.cpp
+END
+SpuConvexPenetrationDepthSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuConvexPenetrationDepthSolver.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/readme.txt
+END
+SpuMinkowskiPenetrationDepthSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuMinkowskiPenetrationDepthSolver.cpp
+END
+SpuCollisionShapes.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuCollisionShapes.h
+END
+Box.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/Box.h
+END

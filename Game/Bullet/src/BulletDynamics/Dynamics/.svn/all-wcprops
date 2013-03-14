@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Dynamics
+END
+Bullet-C-API.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Dynamics/Bullet-C-API.cpp
+END
+btSimpleDynamicsWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp
+END
+btRigidBody.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Dynamics/btRigidBody.cpp
+END
+btSimpleDynamicsWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h
+END
+btRigidBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Dynamics/btRigidBody.h
+END
+btDiscreteDynamicsWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp
+END
+btActionInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Dynamics/btActionInterface.h
+END
+btDynamicsWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Dynamics/btDynamicsWorld.h
+END
+btDiscreteDynamicsWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/local/4220group5/!svn/ver/7/Game/SAGE/Source/Graphics
+END
+ModelManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/local/4220group5/!svn/ver/1/Game/SAGE/Source/Graphics/ModelManager.h
+END
+Effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/local/4220group5/!svn/ver/1/Game/SAGE/Source/Graphics/Effect.h
+END
+IndexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/local/4220group5/!svn/ver/1/Game/SAGE/Source/Graphics/IndexBuffer.cpp
+END
+VertexBufferBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/local/4220group5/!svn/ver/1/Game/SAGE/Source/Graphics/VertexBufferBase.cpp
+END
+IndexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/local/4220group5/!svn/ver/1/Game/SAGE/Source/Graphics/IndexBuffer.h
+END
+VertexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/local/4220group5/!svn/ver/1/Game/SAGE/Source/Graphics/VertexBuffer.cpp
+END
+VertexBufferBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/local/4220group5/!svn/ver/1/Game/SAGE/Source/Graphics/VertexBufferBase.h
+END
+VertexTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/local/4220group5/!svn/ver/1/Game/SAGE/Source/Graphics/VertexTypes.h
+END
+ModelManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/local/4220group5/!svn/ver/7/Game/SAGE/Source/Graphics/ModelManager.cpp
+END
+Effect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/local/4220group5/!svn/ver/1/Game/SAGE/Source/Graphics/Effect.cpp
+END
+VertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/local/4220group5/!svn/ver/1/Game/SAGE/Source/Graphics/VertexBuffer.h
+END

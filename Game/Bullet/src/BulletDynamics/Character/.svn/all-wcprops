@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Character
+END
+btKinematicCharacterController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Character/btKinematicCharacterController.h
+END
+btKinematicCharacterController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Character/btKinematicCharacterController.cpp
+END
+btCharacterControllerInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/Character/btCharacterControllerInterface.h
+END

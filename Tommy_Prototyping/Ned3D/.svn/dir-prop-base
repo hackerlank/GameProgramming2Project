@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 54
+Debug
+Release
+ipch
+*.suo
+*.sdf
+*.ncb
+*.filters
+*.user
+
+END

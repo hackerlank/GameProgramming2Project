@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<walls>
+  <!-- leaving is the wall the plane will leave through -->
+  <wall left="-100.0f" right="100.0f" top="200.0f" bottom="100.0f" near="-200" far="500" leaving="far"></wall>  <!-- first should always be leaving far -->
+  
+  <!-- left branch 1 -->
+  <wall left="-200.0f" right="0.0f" top="200.0f" bottom="100.0f" near="450" far="550" leaving="left"></wall>
+  <wall left="-250.0f" right="-150.0f" top="200.0f" bottom="100.0f" near="430" far="900" leaving="far"></wall>
+  <wall left="-260.0f" right="0.0f" top="200.0f" bottom="100.0f" near="850" far="950" leaving="right"></wall>
+  
+  <!-- right branch 1 -->
+  <wall left="0.0f" right="200.0f" top="200.0f" bottom="100.0f" near="450" far="550" leaving="right"></wall>
+  <wall left="150.0f" right="250.0f" top="200.0f" bottom="100.0f" near="430" far="900" leaving="far"></wall>
+  <wall left="0.0f" right="260.0f" top="200.0f" bottom="100.0f" near="850" far="950" leaving="left"></wall>
+
+  <!-- left and right branches 1 merge after this point -->
+  <wall left="-100.0f" right="100.0f" top="200.0f" bottom="100.0f" near="850" far="1100" leaving="far"></wall>
+
+  
+  <!-- Special condition (hardcoded): enemies killed > 0 -->
+  <wall left="-120.0f" right="300.0f" top="250.0f" bottom="90.0f" near="1050" far="1200" leaving="right"></wall>
+
+  <!-- Default path -->
+  <wall left="-300.0f" right="120.0f" top="220.0f" bottom="90.0f" near="1050" far="1200" leaving="left"></wall>
+  <!-- All range (hardcoded)-->
+  <wall left="-1000.0f" right="-250.0f" top="500.0f" bottom="100.0f" near="500" far="1500" leaving="left"></wall>
+  
+  
+</walls>

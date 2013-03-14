@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/local/4220group5/!svn/ver/23/Game/Bullet/src/vectormath/sse
+END
+floatInVec.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/local/4220group5/!svn/ver/23/Game/Bullet/src/vectormath/sse/floatInVec.h
+END
+quat_aos.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/local/4220group5/!svn/ver/23/Game/Bullet/src/vectormath/sse/quat_aos.h
+END
+vectormath_aos.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/local/4220group5/!svn/ver/23/Game/Bullet/src/vectormath/sse/vectormath_aos.h
+END
+vec_aos.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/local/4220group5/!svn/ver/23/Game/Bullet/src/vectormath/sse/vec_aos.h
+END
+boolInVec.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/local/4220group5/!svn/ver/23/Game/Bullet/src/vectormath/sse/boolInVec.h
+END
+mat_aos.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/local/4220group5/!svn/ver/23/Game/Bullet/src/vectormath/sse/mat_aos.h
+END
+vecidx_aos.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/local/4220group5/!svn/ver/23/Game/Bullet/src/vectormath/sse/vecidx_aos.h
+END

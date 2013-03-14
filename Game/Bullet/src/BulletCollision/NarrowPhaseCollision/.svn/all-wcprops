@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/local/4220group5/!svn/ver/32/Game/Bullet/src/BulletCollision/NarrowPhaseCollision
+END
+btManifoldPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+END
+btMinkowskiPenetrationDepthSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.h
+END
+btGjkConvexCast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkConvexCast.cpp
+END
+btPolyhedralContactClipping.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/local/4220group5/!svn/ver/32/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btPolyhedralContactClipping.h
+END
+btPersistentManifold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.cpp
+END
+btContinuousConvexCollision.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btContinuousConvexCollision.h
+END
+btConvexCast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btConvexCast.cpp
+END
+btGjkConvexCast.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkConvexCast.h
+END
+btPersistentManifold.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+END
+btGjkPairDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkPairDetector.cpp
+END
+btConvexCast.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btConvexCast.h
+END
+btGjkEpa2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.cpp
+END
+btRaycastCallback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btRaycastCallback.cpp
+END
+btGjkPairDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkPairDetector.h
+END
+btVoronoiSimplexSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.cpp
+END
+btRaycastCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btRaycastCallback.h
+END
+btGjkEpa2.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+END
+btSubSimplexConvexCast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.cpp
+END
+btGjkEpaPenetrationDepthSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.cpp
+END
+btVoronoiSimplexSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h
+END
+btSubSimplexConvexCast.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.h
+END
+btDiscreteCollisionDetectorInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+END
+btGjkEpaPenetrationDepthSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.h
+END
+btConvexPenetrationDepthSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btConvexPenetrationDepthSolver.h
+END
+btSimplexSolverInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h
+END
+btMinkowskiPenetrationDepthSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.cpp
+END
+btPolyhedralContactClipping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/local/4220group5/!svn/ver/32/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btPolyhedralContactClipping.cpp
+END
+btPointCollector.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btPointCollector.h
+END
+btContinuousConvexCollision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletCollision/NarrowPhaseCollision/btContinuousConvexCollision.cpp
+END

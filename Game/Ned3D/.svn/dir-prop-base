@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 99
+Debug
+Ned3D.ico
+Ned3D.vcproj.Metalwolf.ian.user
+Ned3D.vcxproj.filters
+Ned3D.vcxproj.user
+small.ico
+
+END

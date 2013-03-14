@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver
+END
+btUniversalConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.cpp
+END
+btSequentialImpulseConstraintSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h
+END
+btSolve2LinearConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.h
+END
+btGeneric6DofSpringConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.cpp
+END
+btConstraintSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btConstraintSolver.h
+END
+btConeTwistConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cpp
+END
+btSolverConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btSolverConstraint.h
+END
+btHinge2Constraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.h
+END
+btGearConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btGearConstraint.h
+END
+btSliderConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btSliderConstraint.h
+END
+btHingeConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp
+END
+btPoint2PointConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h
+END
+btTypedConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btTypedConstraint.h
+END
+btContactConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btContactConstraint.h
+END
+btGeneric6DofConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h
+END
+btContactSolverInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btContactSolverInfo.h
+END
+btSequentialImpulseConstraintSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp
+END
+btSolve2LinearConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp
+END
+btHinge2Constraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.cpp
+END
+btUniversalConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.h
+END
+btGearConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btGearConstraint.cpp
+END
+btSliderConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btSliderConstraint.cpp
+END
+btGeneric6DofSpringConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.h
+END
+btConeTwistConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.h
+END
+btTypedConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp
+END
+btPoint2PointConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp
+END
+btJacobianEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btJacobianEntry.h
+END
+btSolverBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btSolverBody.h
+END
+btGeneric6DofConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp
+END
+btContactConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp
+END
+btHingeConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/local/4220group5/!svn/ver/23/Game/Bullet/src/BulletDynamics/ConstraintSolver/btHingeConstraint.h
+END

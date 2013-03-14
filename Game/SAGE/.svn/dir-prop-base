@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 85
+*.vcproj
+Debug
+Sage.vcproj.Metalwolf.ian.user
+Sage.vcxproj.filters
+Sage.vcxproj.user
+
+END

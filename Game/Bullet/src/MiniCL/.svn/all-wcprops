@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/local/4220group5/!svn/ver/23/Game/Bullet/src/MiniCL
+END
+cl_MiniCL_Defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/local/4220group5/!svn/ver/23/Game/Bullet/src/MiniCL/cl_MiniCL_Defs.h
+END
+MiniCLTaskScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/local/4220group5/!svn/ver/23/Game/Bullet/src/MiniCL/MiniCLTaskScheduler.h
+END
+cl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/local/4220group5/!svn/ver/23/Game/Bullet/src/MiniCL/cl.h
+END
+cl_gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/local/4220group5/!svn/ver/23/Game/Bullet/src/MiniCL/cl_gl.h
+END
+cl_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/local/4220group5/!svn/ver/23/Game/Bullet/src/MiniCL/cl_platform.h
+END
+MiniCL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/local/4220group5/!svn/ver/23/Game/Bullet/src/MiniCL/MiniCL.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/local/4220group5/!svn/ver/23/Game/Bullet/src/MiniCL/CMakeLists.txt
+END
+MiniCLTaskScheduler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/local/4220group5/!svn/ver/23/Game/Bullet/src/MiniCL/MiniCLTaskScheduler.cpp
+END
